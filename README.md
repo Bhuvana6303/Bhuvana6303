@@ -1,0 +1,232 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Bhuvana%20Eswari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast%20%E2%80%A2%20AWS%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20&descColor=94a3b8"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Cloud-Native+Applications;DevOps+%7C+AWS+%7C+Backend+Dev;Automating+Deployments%2C+One+Pipeline+at+a+Time;Consistency+Builds+Mastery+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhuvanagundepalli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhuvanagundepalli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bhuvana6303">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bhuvana6303&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+╔══════════════════════════════════════════════════════╗
+║          GUNDEPALLI BHUVANA SATYA ESWARI              ║
+╠══════════════════════════════════════════════════════╣
+║  Role       : Cloud & DevOps Enthusiast               ║
+║  Degree     : B.Tech Computer Science & Engineering   ║
+║  University : Lovely Professional University          ║
+║  Location   : Punjab, India 🇮🇳                       ║
+╠══════════════════════════════════════════════════════╣
+║  Interests  :                                         ║
+║    ► Cloud Architecture & AWS                         ║
+║    ► DevOps & CI/CD Automation                         ║
+║    ► Containerization & Orchestration                  ║
+║    ► Backend Development with Flask                    ║
+║    ► Competitive Programming & DSA                     ║
+╠══════════════════════════════════════════════════════╣
+║  Current Focus :                                      ║
+║    ► AWS Cloud Architecting                            ║
+║    ► Docker & Kubernetes                                ║
+║    ► Scalable Backend Systems                           ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions&theme=dark" />
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,rockylinux&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| ⚙️ **DevOps Pipeline Project** | Complete DevOps pipeline integrating version control, automation, and cloud deployment | `Python` `Git` `GitHub Actions` `Docker` `AWS EC2` |
+| 🌱 **AI-Based Smart Agriculture Monitoring** | RESTful API system ingesting real-time IoT soil & temperature data for automated irrigation decisions | `Python` `Flask` `SQL` `Docker` `Kubernetes` `AWS` |
+| 🗺️ **Explore Local — AI-Powered City Guide** | AI-driven city guide web app with personalized, location-based recommendations | `HTML` `CSS` `JavaScript` `Responsive Design` |
+
+</div>
+
+### ⚙️ DevOps Pipeline Project
+
+> A complete DevOps pipeline integrating version control, automation, and deployment — built end-to-end with industry-standard tooling.
+
+- 🔄 **CI/CD Workflow** — GitHub-driven source control with automated build & deploy stages via GitHub Actions
+- ☁️ **Cloud Hosting** — application hosted using AWS (EC2) and alternative cloud platforms
+- 🐳 **Containerized Deployment** — Docker used to streamline and standardize the deployment workflow
+- ⚡ **Automation-First** — improved development efficiency by automating repetitive release tasks
+
+`Python` `HTML` `CSS` `Git` `GitHub` `GitHub Actions` `Docker` `AWS EC2`
+
+---
+
+### 🌱 AI-Based Smart Agriculture Monitoring
+
+> An IoT-driven backend system that turns real-time soil and temperature data into automated irrigation decisions.
+
+- 🔌 **RESTful APIs (Flask)** — ingests and processes real-time IoT soil moisture & temperature data
+- 🗄️ **Optimized SQL Schema** — relational database designed to store and retrieve historical sensor readings for data-driven recommendations
+- 🐳 **Dockerized Backend** — containerized for environment consistency, portability, and streamlined deployment
+- ☸️ **Kubernetes Orchestration** — configured Deployments & Services for horizontal scaling, high availability, and monitoring integration
+
+`Python` `Flask` `SQL` `Docker` `Kubernetes` `AWS` `Render`
+
+---
+
+### 🗺️ Explore Local — AI-Powered City Guide Web App
+
+> An AI-powered city guide delivering personalized, location-based recommendations for seamless city exploration.
+
+- 🔎 Intelligent filtering & search mechanisms for location-based recommendations
+- 🧭 Interactive modules for guided tours and a real-time chat assistant
+- 🤝 Partnership integrations with local businesses
+- 📈 Supported 5,000+ users in collaboration with 50+ local partners, delivering 24/7 city exploration services
+
+`HTML` `CSS` `JavaScript` `Font Awesome` `Google Fonts` `Responsive Web Design`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhuvana6303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvana6303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvana6303&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhuvana6303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvana6303&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff"/>
+
+</div>
+
+---
+
+## 🎓 Certifications & Training
+
+<div align="center">
+
+| Badge | Certification / Training | Issuer |
+|-------|--------------------------|--------|
+| ☁️ | Certified in AWS Cloud Architecting | AWS Academy |
+| 🔐 | Privacy and Security in Online Social Media | NPTEL |
+| 🐳 | Introduction to Docker and Kubernetes | ThingQbator |
+| 🌐 | Fundamentals of Network Communication | Coursera |
+| 💻 | Object-Oriented Programming Using C++ | Centre for Professional Enhancement, LPU |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   ► Solved 100+ DSA problems on LeetCode    │
+│     (arrays, strings, recursion, DP)        │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   ► Build reliable, automated cloud systems │
+│   ► Learn continuously, adapt quickly       │
+│   ► Write clean, scalable infrastructure    │
+│   ► Stay consistent — results follow        │
+│   ► Solve real problems with real code      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Bhuvana6303">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhuvanagundepalli/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bhuvanagundepalli@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn"/>
+
+</div>
